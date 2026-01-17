@@ -6,7 +6,7 @@ import ATS from "~/Components/ATS";
 import Details from "~/Components/Details";
 
 export const meta = () => ([
-    { title: 'Resumind | Review ' },
+    { title: 'FlinkAnalyze | Review ' },
     { name: 'description', content: 'Detailed overview of your resume' },
 ])
 
